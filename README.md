@@ -2,6 +2,13 @@
 
 Cartoonize your image with a python script utilizing OpenCV!
 
+## Demo
+Here is how this app looks :
+
+### Instagram Logo
+I tested with an Instagram logo and it shows `original image`, `monochrome image`, and `cartoonized image` of the image I used :
+<img src="https://raw.githubusercontent.com/kevinadhiguna/image-cartoonizer/master/demo/2.png" width="90%"></img>
+
 ## How to run :
 1) Clone this repository :
 ```
