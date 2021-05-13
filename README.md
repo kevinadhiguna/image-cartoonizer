@@ -24,3 +24,5 @@ pip install -r requirements.txt
 python cartoon.py
 ```
 5) Boom! You got the cartoonized image!
+
+[![Visits Badge](https://badges.pufler.dev/visits/kevinadhiguna/image-cartoonizer)](https://github.com/kevinadhiguna)
