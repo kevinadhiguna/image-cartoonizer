@@ -25,4 +25,4 @@ python cartoon.py
 ```
 5) Boom! You got the cartoonized image!
 
-[![Visits Badge](https://badges.pufler.dev/visits/kevinadhiguna/image-cartoonizer)](https://github.com/kevinadhiguna)
+![Hello !](https://api.visitorbadge.io/api/VisitorHit?user=kevinadhiguna&repo=image-cartoonizer&label=thanks%20for%20dropping%20in%20!&labelColor=%23000000&countColor=%23FFFFFF)
